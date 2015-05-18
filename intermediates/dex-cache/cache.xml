@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/travis/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.51/6ceee2696b07cc320d0e1aaea82c7b40768aca0f/jsch-0.1.51.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ceee2696b07cc320d0e1aaea82c7b40768aca0f">
+        <dex dex="/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/jsch-0.1.51-3abc8b5b80c728f788c36c77faaadf20219432fd.jar" />
+    </item>
+    <item
+        jar="/home/travis/build/sheimi/SGit/SGit/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0f55277864035bb97a939200085b19cd2bd08ece.jar" />
+    </item>
+    <item
+        jar="/home/travis/.gradle/caches/modules-2/files-2.1/com.googlecode.javaewah/JavaEWAH/0.7.9/eceaf316a8faf0e794296ebe158ae110c7d72a5a/JavaEWAH-0.7.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eceaf316a8faf0e794296ebe158ae110c7d72a5a">
+        <dex dex="/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/JavaEWAH-0.7.9-5de7cc84262c023fae9dab2835dfbdac8e14723d.jar" />
+    </item>
+    <item
+        jar="/usr/local/android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5c864e83c64e58cb946a6adb00bfe3143e32b677.jar" />
+    </item>
+    <item
+        jar="/home/travis/build/sheimi/SGit/SGit/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/classes-3c043789310f2cd23ec56157a4d8781e5571b1ac.jar" />
+    </item>
+    <item
+        jar="/home/travis/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/commons-io-2.4-577f90ef5b6912e3c005d1f39eb8657b0eeea973.jar" />
+    </item>
+    <item
+        jar="/home/travis/build/sheimi/SGit/SGit/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a1ddd5d62f60d99c98045d63eea3722049e7c69d.jar" />
+    </item>
+    <item
+        jar="/home/travis/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-4340080b5d16170c4ca1673567638a2abc0e1e4c.jar" />
+    </item>
+    <item
+        jar="/home/travis/build/sheimi/SGit/SGit/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/classes-11137256f8d9e458e5f150d730acdaff622b922c.jar" />
+    </item>
+    <item
+        jar="/home/travis/.gradle/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/3.6.2.201501210735-r/47d59dffb5f02470ccfb6c1a5a31b6040a1636e5/org.eclipse.jgit-3.6.2.201501210735-r.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="47d59dffb5f02470ccfb6c1a5a31b6040a1636e5">
+        <dex dex="/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/org.eclipse.jgit-3.6.2.201501210735-r-cb248d5975e4c128f9dba54a7e2ecf0d3e80762d.jar" />
+    </item>
+
+</items>

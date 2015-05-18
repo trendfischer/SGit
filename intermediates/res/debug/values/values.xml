@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="dialog_choose_repo_action_items">
+        <item>Rename</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="merge_ff_type">
+        <item>Fast Forward</item>
+        <item>Fast Forward Only</item>
+        <item>No Fast Forward</item>
+    </string-array>
+    <string-array name="repo_file_operations">
+        <item>Add to stage</item>
+        <item>Checkout (Reset Changes)</item>
+        <item>Delete</item>
+        <item>Remove cached from repository</item>
+        <item>Remove force from repository</item>
+    </string-array>
+    <string-array name="repo_operation_names">
+        <item>New Branch</item>
+        <item>Pull</item>
+        <item>Push</item>
+        <item>Add all to stage</item>
+        <item>Commit</item>
+        <item>Reset</item>
+        <item>Merge</item>
+        <item>Rebase</item>
+        <item>Cherry Pick</item>
+        <item>Diff</item>
+        <item>New File</item>
+        <item>New Directory</item>
+        <item>Add Remote</item>
+        <item>Delete</item>
+    </string-array>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/colors_sgit.xml -->
+    <eat-comment/>
+    <color name="branch_name_bg">#02a1d6</color>
+    <color name="branch_name_bg_pressed">#33b5e5</color>
+    <color name="branch_name_text">#FFF</color>
+    <color name="chosen_sgit">#BC43C5D5</color>
+    <color name="general_gray_text_color">#999</color>
+    <color name="pressed_sgit">#CC33B5E5</color>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="branch_label_padding">10dp</dimen>
+    <dimen name="branch_label_text_size">18sp</dimen>
+    <dimen name="commit_list_item_author_size">14sp</dimen>
+    <dimen name="commit_list_item_icon_padding">8dp</dimen>
+    <dimen name="commit_list_item_icon_size">50dp</dimen>
+    <dimen name="commit_list_item_id_size">14sp</dimen>
+    <dimen name="commit_list_item_msg_size">18sp</dimen>
+    <dimen name="commit_list_item_time_size">14sp</dimen>
+    <dimen name="file_list_header_hint_size">14dp</dimen>
+    <dimen name="file_list_header_msg_size">16dp</dimen>
+    <dimen name="file_list_item_icon_padding">8dp</dimen>
+    <dimen name="file_list_item_icon_size">50dp</dimen>
+    <dimen name="file_list_item_text_size">18sp</dimen>
+    <dimen name="general_dialog_text_size">16dp</dimen>
+    <dimen name="general_divider_padding">10dp</dimen>
+    <dimen name="general_divider_padding_larger">20dp</dimen>
+    <dimen name="general_horizontal_margin">8dp</dimen>
+    <dimen name="general_image_height">200dp</dimen>
+    <dimen name="general_label_size">15sp</dimen>
+    <dimen name="general_min_height">50dp</dimen>
+    <dimen name="general_padding">5dp</dimen>
+    <dimen name="general_padding_larger">10dp</dimen>
+    <dimen name="general_vertial_margin">5dp</dimen>
+    <dimen name="repo_list_item_author_size">14sp</dimen>
+    <dimen name="repo_list_item_icon_padding">8dp</dimen>
+    <dimen name="repo_list_item_icon_size">35dp</dimen>
+    <dimen name="repo_list_item_msg_size">14sp</dimen>
+    <dimen name="repo_list_item_remote_size">14sp</dimen>
+    <dimen name="repo_list_item_time_size">14sp</dimen>
+    <dimen name="repo_list_item_title_size">18sp</dimen>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_add_private_key">Add Key</string>
+    <string name="action_choose_language">Choose Language</string>
+    <string name="action_clone">Clone</string>
+    <string name="action_copy_commit_str">Copy Commit Hash</string>
+    <string name="action_create_external_repo">Create External Repo</string>
+    <string name="action_donate">Donate</string>
+    <string name="action_edit_in_other_app">Edit in other apps</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_git_profile">Git Profile</string>
+    <string name="action_import_repo">Import Repository</string>
+    <string name="action_manage_private_key">Private Keys</string>
+    <string name="action_mode_diff">Diff</string>
+    <string name="action_open_in_other_app">Open in other apps</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_toggle_drawer">Toggle Drawer</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings_error.xml -->
+    <eat-comment/>
+    <string name="alert_choose_two_items">You can only choose two items</string>
+    <string name="alert_field_not_empty">Field should not be empty</string>
+    <string name="alert_file_exists">File already exists</string>
+    <string name="alert_filename_format">File name format error</string>
+    <string name="alert_is_already_a_git_repo">This directory is already a Git repository</string>
+    <string name="alert_localpath_format">Repository name can\'t contain slash.</string>
+    <string name="alert_localpath_repo_exists">Repository already exists</string>
+    <string name="alert_localpath_required">Repository name required</string>
+    <string name="alert_new_filename_required">File name required</string>
+    <string name="alert_no_items_selected">No items selected</string>
+    <string name="alert_no_older_commits">No older commits to compare with</string>
+    <string name="alert_please_add_a_remote">Please add a remote first</string>
+    <string name="alert_please_wait_previous_op">Previous operation is still running</string>
+    <string name="alert_remoteurl_required">Remote URL required</string>
+    <string name="alert_save_failed">Save failed</string>
+    <string name="alert_you_must_choose_one_commit_to_copy">Please choose exactly one commit to copy</string>
+    <string name="alert_you_should_input_something">You should input something</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">SGit Dev</string>
+    <string name="default_text">Default Text</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_add_remote_hint_name">Remote name</string>
+    <string name="dialog_add_remote_hint_url">Remote url</string>
+    <string name="dialog_add_remote_positive_label">Done</string>
+    <string name="dialog_add_remote_title">Add Remote</string>
+    <string name="dialog_cherrypick_msg_hint">Commit Hash (copy from commit list)</string>
+    <string name="dialog_cherrypick_title">Cherry Pick</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_choose_branch_title">Choose Branch</string>
+    <string name="dialog_choose_language_title">Choose Language</string>
+    <string name="dialog_choose_option">Choose option...</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_clone_local_path_hint">Local Path</string>
+    <string name="dialog_clone_neutral_label">Init Local</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_comfirm_checkout_commit_msg">Checkout Branch</string>
+    <string name="dialog_comfirm_checkout_commit_title">Confirm Checkout</string>
+    <string name="dialog_comfirm_import_repo_msg">Are you sure you want to import this repository?</string>
+    <string name="dialog_comfirm_import_repo_title">Import Repository</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_commit_auto_stage">Auto stage modified files</string>
+    <string name="dialog_commit_is_amend">Amend previous commit</string>
+    <string name="dialog_commit_msg_hint">Commit message</string>
+    <string name="dialog_commit_positive_label">Commit</string>
+    <string name="dialog_commit_title">Commit Changes</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_create_branch_hint">BranchName</string>
+    <string name="dialog_create_branch_title">Create new branch</string>
+    <string name="dialog_create_dir_hint">Directory Name</string>
+    <string name="dialog_create_dir_title">New Directory</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_create_external_msg">Do you want to create a Git repository in this directory?</string>
+    <string name="dialog_create_external_positive_label">Create</string>
+    <string name="dialog_create_external_title">Create external repo</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_create_file_hint">File Name</string>
+    <string name="dialog_create_file_title">New File</string>
+    <string name="dialog_delete_repo_msg">Are you sure you want to delete this repository?</string>
+    <string name="dialog_delete_repo_title">Delete Confirmation</string>
+    <string name="dialog_file_delete">Delete File</string>
+    <string name="dialog_file_delete_msg">Are you sure you want to delete this file or directory from working directory?</string>
+    <string name="dialog_file_remove_cached">Remove Cached File</string>
+    <string name="dialog_file_remove_cached_msg">Are you sure you want to delete this file or directory from index?</string>
+    <string name="dialog_file_remove_force">Remove Force File</string>
+    <string name="dialog_file_remove_force_msg">Are you sure you want to delete this file or directory from working directory and index?</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_import_import_as_external_repo">Import as external repo</string>
+    <string name="dialog_import_local_path_hint">Local Path</string>
+    <string name="dialog_import_set_local_repo_title">Set Local Path</string>
+    <string name="dialog_init_local_path_hint">Local Path</string>
+    <string name="dialog_init_repo_positive_label">Init</string>
+    <string name="dialog_init_repo_title">Local Path</string>
+    <string name="dialog_label_cherrypick">Cherry Pick</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_merge_checkbox">Commit after merge</string>
+    <string name="dialog_merge_title">Choose Branch To Merge</string>
+    <string name="dialog_profile_git_profile_title">Git Profile</string>
+    <string name="dialog_prompt_for_password_checkbox">Save username and password</string>
+    <string name="dialog_prompt_for_password_title">Needs Authentication</string>
+    <string name="dialog_prompt_for_password_title_auth_fail">Authentication Failed</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_push_is_force_push">Force push?</string>
+    <string name="dialog_push_is_push_all">Push all?</string>
+    <string name="dialog_push_repo_msg">Are you sure you want to push local changes?</string>
+    <string name="dialog_push_repo_title">Push to …</string>
+    <string name="dialog_push_result">Push Result</string>
+    <string name="dialog_rebase_title">Choose upstream branch</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_rename_key_title">Rename</string>
+    <string name="dialog_rename_repo_hint">Repository Name</string>
+    <string name="dialog_rename_repo_title">Rename Repository</string>
+    <string name="dialog_reset_commit_msg">Are you sure you want to discard all the changes?</string>
+    <string name="dialog_reset_commit_title">Reset Changes</string>
+    <string name="dialog_title_you_want_to">You want to …</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings_error.xml -->
+    <eat-comment/>
+    <string name="error_can_not_edit_file">Can\'t edit this file in this device.</string>
+    <string name="error_can_not_open_file">Can\'t open this file in this device.</string>
+    <string name="error_clone_failed">Clone failed</string>
+    <string name="error_diff_failed">Diff failed</string>
+    <string name="error_invalid_remote">Invalid remote</string>
+    <string name="error_no_edit_app">No apps can edit source file</string>
+    <string name="error_no_open_app">No apps can open source file</string>
+    <string name="error_out_of_memory">Out of memory</string>
+    <string name="error_pull_failed">Pull failed</string>
+    <string name="error_rename_repo_fail">Renaming repository failed</string>
+    <string name="error_repository_not_found">Repository not found (there may be something wrong with this repo)</string>
+    <string name="error_something_wrong">Something wrong happened</string>
+    <string name="error_task_running">A task for this repo is already running</string>
+    <string name="error_transport">Transport error</string>
+    <string name="error_unknown">An unknown error occurred</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="feedback_subject">Feedback</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_checkout">Checkout</string>
+    <string name="label_choose_app_to_edit">Edit With …</string>
+    <string name="label_choose_app_to_open">Open With …</string>
+    <string name="label_clone">Clone</string>
+    <string name="label_create">Create</string>
+    <string name="label_delete">Delete</string>
+    <string name="label_done">Done</string>
+    <string name="label_git_email">Email</string>
+    <string name="label_git_name">Name</string>
+    <string name="label_import">Import</string>
+    <string name="label_new_file_name">New Filename</string>
+    <string name="label_ok">OK</string>
+    <string name="label_password">Password</string>
+    <string name="label_push">Push</string>
+    <string name="label_push_all">Push All</string>
+    <string name="label_remote_url">Remote URL</string>
+    <string name="label_rename">Rename</string>
+    <string name="label_send_feedback">Send Feedback</string>
+    <string name="label_username">Username</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings_success_msg.xml -->
+    <eat-comment/>
+    <string name="msg_commit_str_has_copied">Commit hash has been copied</string>
+    <string name="msg_now_you_can_edit">File can be edited</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="preference_file_key">me.sheimi.sgit_dev</string>
+    <string name="progress_left_init">0%</string>
+    <string name="progress_right_init">0/0</string>
+    <string name="pull_msg_init">Pulling … </string>
+    <string name="push_msg_init">Pushing … </string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings_success_msg.xml -->
+    <eat-comment/>
+    <string name="success_add_to_stage">File has been added to stage</string>
+    <string name="success_checkout_file">Checkout successfull</string>
+    <string name="success_cherry_pick">Cherrypicked successfully</string>
+    <string name="success_commit">Changes have been committed</string>
+    <string name="success_rebase">Rebased successfully</string>
+    <string name="success_remote_added">Remote added</string>
+    <string name="success_remove_file">File has been removed</string>
+    <string name="success_reset">Changes have been discarded</string>
+    <string name="success_save">File saved Successfully</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="tab_commits_label">Commits</string>
+    <string name="tab_files_label">Files</string>
+    <string name="tab_status_label">Status</string>
+    <string name="title_activity_commit_diff">Diff:   </string>
+    <string name="title_activity_explore_file">Explore Files</string>
+    <string name="title_activity_import_repository">Import Repository</string>
+    <string name="title_activity_private_key_manage">Manage Private Keys</string>
+    <string name="title_activity_repo_detail">Repository</string>
+    <string name="title_activity_view_file">File: </string>
+    <string name="title_clone_repo">Clone Repository</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/styles_sgit.xml -->
+    <eat-comment/>
+    <style name="ActionBar.Solid.Sgit" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/ab_background_textured_sgit</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_sgit</item>
+        <item name="android:backgroundSplit">@drawable/ab_background_textured_sgit</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Sgit</item>
+    </style>
+    <style name="ActionBar.Transparent.Sgit" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_sgit</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Sgit</item>
+    </style>
+    <style name="ActionBarTabStyle.Sgit" parent="@android:style/Widget.Holo.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_sgit</item>
+    </style>
+    <style name="ActionButton.CloseMode.Sgit" parent="@android:style/Widget.Holo.Light.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_sgit</item>
+    </style>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="Theme.Sgit">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/styles_sgit.xml -->
+    <eat-comment/>
+    <style name="DropDownListView.Sgit" parent="@android:style/Widget.Holo.Light.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_sgit</item>
+    </style>
+    <style name="DropDownNav.Sgit" parent="@android:style/Widget.Holo.Light.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_sgit</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_sgit</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_sgit</item>
+    </style>
+    <style name="PopupMenu.Sgit" parent="@android:style/Widget.Holo.Light.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_sgit</item>
+    </style>
+    <style name="ProgressBar.Sgit" parent="@android:style/Widget.Holo.Light.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_sgit</item>
+    </style>
+    <style name="Theme.Sgit" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_sgit</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Sgit</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Sgit</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Sgit</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Sgit</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Sgit</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_sgit</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_sgit</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Sgit</item>
+        <item name="android:actionMenuTextColor">@android:color/black</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:actionBarWidgetTheme">@style/Theme.Sgit.Widget</item>
+    </style>
+    <style name="Theme.Sgit.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Sgit</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Sgit</item>
+    </style>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="items_with_same_width">
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+</resources>

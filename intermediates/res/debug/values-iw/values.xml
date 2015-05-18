@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/arrays.xml -->
+    <eat-comment/>
+    <string-array name="repo_file_operations">
+    <item>הוסף לשלב</item>
+    <item>בדיקה (אפס שינויים)</item>
+    <item>מחק</item>
+  </string-array>
+    <string-array name="repo_operation_names">
+    <item>משוך</item>
+    <item>דחוף</item>
+    <item>הוסף את כולם לשלב</item>
+    <item>Commit</item>
+    <item>אפס</item>
+    <item>מיזוג</item>
+    <item>Rebase</item>
+    <item>Cherry Pick</item>
+    <item>הבדלים</item>
+    <item>קובץ חדש</item>
+    <item>תיקייה חדשה</item>
+    <item>הוסף שרת</item>
+    <item>מחק</item>
+  </string-array>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="action_add_private_key">הוסף מפתח</string>
+    <string name="action_choose_language">בחר שפה</string>
+    <string name="action_clone">העתקה</string>
+    <string name="action_copy_commit_str">העתק Hash Commit</string>
+    <string name="action_create_external_repo">צור מאגר חיצוני</string>
+    <string name="action_donate">תרומה</string>
+    <string name="action_edit">ערוך</string>
+    <string name="action_edit_in_other_app">ערוך ביישומים אחרים</string>
+    <string name="action_feedback">משוב</string>
+    <string name="action_git_profile">פרופיל git</string>
+    <string name="action_import_repo">יבא מאגר</string>
+    <string name="action_manage_private_key">מפתחות פרטיים</string>
+    <string name="action_mode_diff">הבדלים</string>
+    <string name="action_reset">איפוס</string>
+    <string name="action_search">חיפוש</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="action_toggle_drawer">מתג מגירה</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings_error.xml -->
+    <eat-comment/>
+    <string name="alert_choose_two_items">אתה יכול לבחור רק שני פריטים</string>
+    <string name="alert_field_not_empty">שדה לא צריך להיות ריק</string>
+    <string name="alert_file_exists">קובץ עם שם זה קיים</string>
+    <string name="alert_filename_format">תבנית שם הקובץ בעייתית</string>
+    <string name="alert_have_paid">מודעות בוטלו.</string>
+    <string name="alert_is_already_a_git_repo">תיקייה זו כבר מאגר git.</string>
+    <string name="alert_localpath_format">שגיאה בתבנית שם המאגר. שם המאגר אינו יכול להכיל סלאשים.</string>
+    <string name="alert_localpath_repo_exists">מאגר קיים</string>
+    <string name="alert_localpath_required">שם למאגר נדרש</string>
+    <string name="alert_new_filename_required">צריך שם קובץ</string>
+    <string name="alert_no_items_selected">לא נבחרו פריטים</string>
+    <string name="alert_no_older_commits">אין Commit ישן שניתן להשוות איתו</string>
+    <string name="alert_please_add_a_remote">הוסף שרת קודם</string>
+    <string name="alert_please_wait_previous_op">פעולה קודמת עדיין רצה</string>
+    <string name="alert_remoteurl_required">URL שרת נדרש</string>
+    <string name="alert_save_failed">שמירה נכשלה</string>
+    <string name="alert_you_must_choose_one_commit_to_copy">אנה בחר ב-commit מסוים כדי להעתיקו</string>
+    <string name="alert_you_should_input_something">עליך להזין משהו</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="default_text">טקסט ברירת מחדל</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_add_remote_hint_name">שם שרת</string>
+    <string name="dialog_add_remote_hint_url">URL שרת</string>
+    <string name="dialog_add_remote_positive_label">הושלם</string>
+    <string name="dialog_add_remote_title">הוסף שרת</string>
+    <string name="dialog_cherrypick_msg_hint">Commit Hash (העתק מרשימת commit)</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_choose_branch_title">בחר שלוחה</string>
+    <string name="dialog_choose_language_title">בחר שפה</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_clone_local_path_hint">נתיב מקומי</string>
+    <string name="dialog_clone_neutral_label">צור מקומי</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_comfirm_checkout_commit_msg">בדוק שלוחה</string>
+    <string name="dialog_comfirm_checkout_commit_title">אשר בדיקה</string>
+    <string name="dialog_comfirm_import_repo_msg">האם אתה בטוח שברצונך לייבא את הפרויקט הזה?</string>
+    <string name="dialog_comfirm_import_repo_title">ייבא מאגר</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_commit_auto_stage">הוסף אוטומטית קבצים ששונו</string>
+    <string name="dialog_commit_is_amend">לתקן Commit קודם</string>
+    <string name="dialog_commit_msg_hint">הודעת Commit</string>
+    <string name="dialog_commit_positive_label">Commit</string>
+    <string name="dialog_commit_title">Commit שינויים</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_create_dir_hint">שם תיקייה</string>
+    <string name="dialog_create_dir_title">תיקייה חדשה</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_create_external_msg">האם ברצונך ליצור פרויקט git בתקייה זו?</string>
+    <string name="dialog_create_external_positive_label">יצירה</string>
+    <string name="dialog_create_external_title">צור מאגר חיצוני</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_create_file_hint">שם קובץ</string>
+    <string name="dialog_create_file_title">קובץ חדש</string>
+    <string name="dialog_delete_repo_msg">האם אתה בטוח שברצונך למחוק את הפרויקט הזה?</string>
+    <string name="dialog_delete_repo_title">אישור מחיקה</string>
+    <string name="dialog_file_delete">מחק קובץ</string>
+    <string name="dialog_file_delete_msg">האם אתה בטוח שברצונך למחוק קובץ או תקייה זו?</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_import_import_as_external_repo">יבא כמאגר חיצוני</string>
+    <string name="dialog_import_local_path_hint">נתיב מקומי</string>
+    <string name="dialog_import_set_local_repo_title">קבע נתיב מקומי</string>
+    <string name="dialog_init_local_path_hint">נתיב מקומי</string>
+    <string name="dialog_init_repo_positive_label">צור</string>
+    <string name="dialog_init_repo_title">נתיב מקומי</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_merge_checkbox">Commit אחרי מיזוג</string>
+    <string name="dialog_merge_title">בחא שלוחה למיזוג</string>
+    <string name="dialog_profile_git_profile_title">פרופיל git</string>
+    <string name="dialog_prompt_for_password_checkbox">שמור שם משתמש וסיסמה</string>
+    <string name="dialog_prompt_for_password_title">דורש אימות</string>
+    <string name="dialog_prompt_for_password_title_auth_fail">אימות נכשל</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_push_is_push_all">להעלות הכל?</string>
+    <string name="dialog_push_repo_msg">האם אתה בטוח שברצונך להעלות שינויים אחרונים?</string>
+    <string name="dialog_push_repo_title">דחוף ל-…</string>
+    <string name="dialog_push_result">דחוף תוצאה</string>
+    <string name="dialog_rebase_title">בחר שלוחה</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_rename_key_title">שנה שם</string>
+    <string name="dialog_reset_commit_msg">האם אתה בטוח שברצונך לבטל את כל השינויים?</string>
+    <string name="dialog_reset_commit_title">אפס שינויים</string>
+    <string name="dialog_title_you_want_to">אתה רוצה …</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings_error.xml -->
+    <eat-comment/>
+    <string name="error_can_not_edit_file">אופס, לא יכול לערוך על התקן זה.</string>
+    <string name="error_can_not_open_file">אופס, לא יכול לפתוח על התקן זה.</string>
+    <string name="error_clone_failed">העתקה נכשלה</string>
+    <string name="error_diff_failed">מציאת שינויים נכשלה</string>
+    <string name="error_invalid_remote">שרת לא חוקי</string>
+    <string name="error_no_edit_app">אופס, אין יישומים שיכולים לערוך קובץ זה.</string>
+    <string name="error_no_open_app">אופס, אין יישומים שיכולים לערוך קובץ זה.</string>
+    <string name="error_out_of_memory">אופס, נגמר הזיכרון הפנוי</string>
+    <string name="error_pull_failed">משיכה נכשלה</string>
+    <string name="error_repository_not_found">מאגר לא נמצא (יתכן ומשהו לא בסדר עם מאגר).</string>
+    <string name="error_something_wrong">משהו רע קרה</string>
+    <string name="error_task_running">משימה עבור המאגר כבר קיימת</string>
+    <string name="error_transport">שגיאת העברה</string>
+    <string name="error_unknown">משהו לא בסדר!!!</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="feedback_subject">משוב</string>
+    <string name="label_cancel">ביטול</string>
+    <string name="label_checkout">בדיקה</string>
+    <string name="label_choose_app_to_edit">בחר יישום לעריכה</string>
+    <string name="label_choose_app_to_open">בחר יישום לפתיחה</string>
+    <string name="label_clone">מיזוג</string>
+    <string name="label_create">צור</string>
+    <string name="label_delete">מחיקה</string>
+    <string name="label_done">סיום</string>
+    <string name="label_git_email">דואר אלקטרוני</string>
+    <string name="label_git_name">שם</string>
+    <string name="label_import">יבא</string>
+    <string name="label_new_file_name">שם קובץ חדש</string>
+    <string name="label_ok">אישור</string>
+    <string name="label_password">סיסמה</string>
+    <string name="label_push">דחיפה</string>
+    <string name="label_push_all">דחוף הכל</string>
+    <string name="label_remote_url">URL שרת</string>
+    <string name="label_rename">שנה שם</string>
+    <string name="label_send_feedback">שלח משוב</string>
+    <string name="label_username">שם משתמש</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings_success_msg.xml -->
+    <eat-comment/>
+    <string name="msg_commit_str_has_copied">Commit hash הועתק</string>
+    <string name="msg_now_you_can_edit">כעת ניתן לערוך</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="pull_msg_init">מושך …</string>
+    <string name="push_msg_init">דוחף …</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings_success_msg.xml -->
+    <eat-comment/>
+    <string name="success_add_to_stage">הקובץ נוסף לשלב</string>
+    <string name="success_checkout_file">שחזור הוצלח</string>
+    <string name="success_cherry_pick">Cherry pick הוצלח</string>
+    <string name="success_commit">שינויים נוספו ל-commit</string>
+    <string name="success_rebase">Rebase הוצלח</string>
+    <string name="success_remote_added">שרת הוסף</string>
+    <string name="success_reset">שינויים בוטלו</string>
+    <string name="success_save">שמירת קובץ הצליחה</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-iw/strings.xml -->
+    <eat-comment/>
+    <string name="tab_files_label">קבצים</string>
+    <string name="tab_status_label">מצב</string>
+    <string name="title_activity_commit_diff">הבדלים:   </string>
+    <string name="title_activity_explore_file">חקור קבצים</string>
+    <string name="title_activity_import_repository">ייבא מאגר</string>
+    <string name="title_activity_private_key_manage">נהל מפתחות פרטיים</string>
+    <string name="title_activity_view_file">קובץ: </string>
+    <string name="title_clone_repo">העתק מאגר</string>
+    <string name="title_section1">חלק 1</string>
+    <string name="title_section2">חלק 2</string>
+    <string name="title_section3">חלק 3</string>
+</resources>

@@ -1,0 +1,11 @@
+/home/travis/build/sheimi/SGit/SGit/build/intermediates/classes/debug
+/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a1ddd5d62f60d99c98045d63eea3722049e7c69d.jar
+/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5c864e83c64e58cb946a6adb00bfe3143e32b677.jar
+/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/classes-3c043789310f2cd23ec56157a4d8781e5571b1ac.jar
+/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/JavaEWAH-0.7.9-5de7cc84262c023fae9dab2835dfbdac8e14723d.jar
+/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-4340080b5d16170c4ca1673567638a2abc0e1e4c.jar
+/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0f55277864035bb97a939200085b19cd2bd08ece.jar
+/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/commons-io-2.4-577f90ef5b6912e3c005d1f39eb8657b0eeea973.jar
+/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/jsch-0.1.51-3abc8b5b80c728f788c36c77faaadf20219432fd.jar
+/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/classes-11137256f8d9e458e5f150d730acdaff622b922c.jar
+/home/travis/build/sheimi/SGit/SGit/build/intermediates/pre-dexed/debug/org.eclipse.jgit-3.6.2.201501210735-r-cb248d5975e4c128f9dba54a7e2ecf0d3e80762d.jar

@@ -1,0 +1,1 @@
+/home/travis/build/sheimi/SGit/SGit/build/intermediates/classes/test/debug

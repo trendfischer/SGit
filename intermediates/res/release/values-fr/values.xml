@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/arrays.xml -->
+    <eat-comment/>
+    <string-array name="merge_ff_type"> <!-- traduire Fast Forward ? -->
+        <item>Fast Forward</item>
+        <item>Seulement Fast Forward</item>
+        <item>Pas de Fast Forward</item>
+    </string-array>
+    <string-array name="repo_file_operations">
+        <item>Add to stage</item>
+        <item>Checkout (Reset Changes)</item>
+        <item>Supprimer</item>
+    </string-array>
+    <string-array name="repo_operation_names">
+        <item>Pull</item>
+        <item>Push</item>
+        <item>Add all to stage</item>
+        <item>Commit</item>
+        <item>Reset</item>
+        <item>Merge</item>
+        <item>Rebase</item>
+        <item>Cherry Pick</item>
+        <item>Différentiel</item>
+        <item>Nouveau fichier</item>
+        <item>Nouveau dépôt</item>
+        <item>Add remote</item>
+        <item>Supprimer</item>
+    </string-array>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="action_add_private_key">Ajouter une clé</string>
+    <string name="action_choose_language">Choisir la langue</string>
+    <string name="action_clone">Cloner</string>
+    <string name="action_copy_commit_str">Copier le hash du commit</string>
+    <string name="action_create_external_repo">Créer un dépôt externe</string>
+    <string name="action_donate">Donner</string>
+    <string name="action_edit">Éditer</string>
+    <string name="action_edit_in_other_app">Éditer dans d\'autres apps</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_git_profile">Profil Git</string>
+    <string name="action_import_repo">Importer le dépôt</string>
+    <string name="action_manage_private_key">Clés privées</string>
+    <string name="action_mode_diff">Diff</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_search">Rechercher</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_toggle_drawer">Toggle Drawer</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings_error.xml -->
+    <eat-comment/>
+    <string name="alert_choose_two_items">Vous pouvez sélectionner seulement 2 éléments</string>
+    <string name="alert_field_not_empty">Le champ ne doit pas être vide</string>
+    <string name="alert_have_paid">Les pubs ont été désactivées.</string>
+    <string name="alert_is_already_a_git_repo">Ce dossier est déja un dépot git.</string>
+    <string name="alert_localpath_format">Repository Name Format Error. Repo name can\'t
+        contain slash.</string>
+    <string name="alert_localpath_repo_exists">Le dépôt existe</string>
+    <string name="alert_localpath_required">Nom du dépôt requis</string>
+    <string name="alert_new_filename_required">Le nom du fichier est requis</string>
+    <string name="alert_no_items_selected">Aucun élément sélectionné</string>
+    <string name="alert_please_add_a_remote">Please add a remote first</string>
+    <string name="alert_please_wait_previous_op">L\'opération précédente est encore en cours</string>
+    <string name="alert_remoteurl_required">Remote URL Required</string>
+    <string name="alert_save_failed">Échec de l\'enregistrement</string>
+    <string name="alert_you_must_choose_one_commit_to_copy">Vous devez choisir un commit à copier</string>
+    <string name="alert_you_should_input_something">Vous devez saisir quelque chose</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="default_text">Texte par défaut</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_add_remote_positive_label">Fait</string>
+    <string name="dialog_cherrypick_msg_hint">Commit Hash (copier depuis le liste des commit)</string>
+    <string name="dialog_cherrypick_title">Cherry Pick</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_choose_branch_title">Choisir la branche</string>
+    <string name="dialog_choose_language_title">Choisir la langue</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_clone_local_path_hint">Chemin local</string>
+    <string name="dialog_clone_neutral_label">Initialisation locale</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_comfirm_checkout_commit_msg">Checkout Branch</string>
+    <string name="dialog_comfirm_checkout_commit_title">Confirmer checkout</string>
+    <string name="dialog_comfirm_import_repo_msg">Êtes-vous sûr de vouloir importer ce dépôt?</string>
+    <string name="dialog_comfirm_import_repo_title">Importer le dépôt</string>
+    <string name="dialog_create_dir_hint">Nom du dossier</string>
+    <string name="dialog_create_dir_title">Nouveau dossiery</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_create_external_positive_label">Créer</string>
+    <string name="dialog_create_external_title">Créer un dépôt externe</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_create_file_hint">Nom du fichier</string>
+    <string name="dialog_create_file_title">Nouveau fichier</string>
+    <string name="dialog_delete_repo_msg">Êtes vous de vouloir supprimer ce dépôt?</string>
+    <string name="dialog_delete_repo_title">Delete Conformation</string>
+    <string name="dialog_file_delete">Supprimer le fichier</string>
+    <string name="dialog_file_delete_msg">Êtes-vous sûr de vouloir supprimmer ce fichier ou dossier?</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_import_import_as_external_repo">Importer en tant que dépôt externe</string>
+    <string name="dialog_import_local_path_hint">Chemin local</string>
+    <string name="dialog_import_set_local_repo_title">Définir le chemin local</string>
+    <string name="dialog_init_local_path_hint">Chemin local</string>
+    <string name="dialog_init_repo_positive_label">Initialiser</string>
+    <string name="dialog_init_repo_title">Chemin local</string>
+    <string name="dialog_label_cherrypick">Cherry Pick</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_merge_checkbox">Commit after merge</string>
+    <string name="dialog_merge_title">Choose Branch To Merge</string>
+    <string name="dialog_profile_git_profile_title">Profil Git</string>
+    <string name="dialog_prompt_for_password_checkbox">Sauvegarder le nom d\'utilisateur et le mot de passe</string>
+    <string name="dialog_prompt_for_password_title">Authentification nécessaire</string>
+    <string name="dialog_prompt_for_password_title_auth_fail">Échec d\'authentification</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings_dialog.xml -->
+    <eat-comment/>
+    <string name="dialog_push_result">Résultat du push</string>
+    <string name="dialog_rebase_title">Choisir la branche upstream</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_rename_key_title">Renommer</string>
+    <string name="dialog_reset_commit_msg">Êtes-vous sûr de vouloir supprimer toutes les modifications?</string>
+    <string name="dialog_reset_commit_title">Reset changes</string>
+    <string name="dialog_title_you_want_to">Vous voulez …</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings_error.xml -->
+    <eat-comment/>
+    <string name="error_clone_failed">Échec de clone</string>
+    <string name="error_diff_failed">Échec de diff</string>
+    <string name="error_invalid_remote">Invalid Remote</string>
+    <string name="error_out_of_memory">Opps, mémoire saturée</string>
+    <string name="error_pull_failed">Échec de pull</string>
+    <string name="error_repository_not_found">Dépôt introuvable (il y a peut être un problème avec ce dépôt).</string>
+    <string name="error_something_wrong">Quelque chose se passe mal</string>
+    <string name="error_task_running">Une tâche pour ce dépôt est en cours d\'exécution</string>
+    <string name="error_transport">Transport Error</string>
+    <string name="error_unknown">Quelque chose ne va !</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="feedback_subject">Feedback</string>
+    <string name="hello_world">Bonjour tout le monde!</string>
+    <string name="label_cancel">Annuler</string>
+    <string name="label_checkout">Checkout</string>
+    <string name="label_choose_app_to_edit">Sélectionner l\'app pour éditer</string>
+    <string name="label_choose_app_to_open">Sélectionner l\'app pour ouvrir</string>
+    <string name="label_clone">Cloner</string>
+    <string name="label_create">Créer</string>
+    <string name="label_delete">Supprimer</string>
+    <string name="label_done">Fait</string>
+    <string name="label_git_email">Email</string>
+    <string name="label_git_name">Nom</string>
+    <string name="label_import">Importer</string>
+    <string name="label_new_file_name">Nouveau nom de fichier</string>
+    <string name="label_ok">OK</string>
+    <string name="label_password">Mot de passe</string>
+    <string name="label_push">Push</string>
+    <string name="label_push_all">Push all</string>
+    <string name="label_remote_url">Remote URL</string>
+    <string name="label_rename">Renommer</string>
+    <string name="label_send_feedback">Envoyer un feedback</string>
+    <string name="label_username">Nom d\'utilisateur</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings_success_msg.xml -->
+    <eat-comment/>
+    <string name="msg_commit_str_has_copied">Le hash du commit a été copié</string>
+    <string name="msg_now_you_can_edit">Maintenant, vous pouvez éditer</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="progress_left_init">0%</string>
+    <string name="progress_right_init">0/0</string>
+    <string name="pull_msg_init">Pulling …</string>
+    <string name="push_msg_init">Pushing …</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings_success_msg.xml -->
+    <eat-comment/>
+    <string name="success_add_to_stage">File has been added to stage</string>
+    <string name="success_checkout_file">Succès de checkout</string>
+    <string name="success_cherry_pick">Succès de cherry pick</string>
+    <string name="success_commit">Les changements ont été commités</string>
+    <string name="success_rebase">Succès de rebase</string>
+    <string name="success_reset">Les changements ont été supprimés</string>
+    <string name="success_save">Succès de l\'enregistrement du fichier</string>
+    <!-- From: file:/home/travis/build/sheimi/SGit/SGit/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="tab_commits_label">Commits</string>
+    <string name="tab_files_label">Fichiers</string>
+    <string name="tab_status_label">Statut</string>
+    <string name="title_activity_commit_diff">Diff:   </string>
+    <string name="title_activity_explore_file">Explorez les fichiers</string>
+    <string name="title_activity_import_repository">Importer le dépôt</string>
+    <string name="title_activity_private_key_manage">Gérer ses clés privées</string>
+    <string name="title_activity_repo_detail">RepoDetailActivity</string>
+    <string name="title_activity_view_file">Fichier: </string>
+    <string name="title_clone_repo">Cloner le dépôt</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+</resources>

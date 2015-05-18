@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.sheimi.sgit_dev"
+    android:versionCode="20150518085227"
+    android:versionName="1.2.4.4-dev-20150518085227" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:logo="@drawable/ic_logo"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="me.sheimi.sgit_dev.RepoListActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="me.sheimi.sgit_dev.activities.RepoDetailActivity"
+            android:label="@string/title_activity_repo_detail"
+            android:parentActivityName="me.sheimi.sgit_dev.RepoListActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".RepoListActivity" />
+        </activity>
+        <activity
+            android:name="me.sheimi.sgit_dev.activities.ViewFileActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:parentActivityName="me.sheimi.sgit_dev.activities.RepoDetailActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activities.RepoDetailActivity" />
+        </activity>
+        <activity
+            android:name="me.sheimi.sgit_dev.activities.CommitDiffActivity"
+            android:parentActivityName="me.sheimi.sgit_dev.activities.RepoDetailActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activities.RepoDetailActivity" />
+        </activity>
+        <activity
+            android:name="me.sheimi.sgit_dev.activities.explorer.ImportRepositoryActivity"
+            android:label="@string/title_activity_import_repository"
+            android:parentActivityName="me.sheimi.sgit_dev.RepoListActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".RepoListActivity" />
+        </activity>
+        <activity
+            android:name="me.sheimi.sgit_dev.activities.explorer.PrivateKeyManageActivity"
+            android:label="@string/title_activity_private_key_manage"
+            android:parentActivityName="me.sheimi.sgit_dev.RepoListActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".RepoListActivity" />
+        </activity>
+        <activity
+            android:name="me.sheimi.sgit_dev.activities.explorer.ExploreFileActivity"
+            android:label="@string/title_activity_explore_file"
+            android:parentActivityName="me.sheimi.sgit_dev.activities.explorer.PrivateKeyManageActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activities.explorer.PrivateKeyManageActivity" />
+        </activity>
+    </application>
+
+</manifest>
